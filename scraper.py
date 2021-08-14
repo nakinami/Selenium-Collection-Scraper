@@ -41,7 +41,7 @@ collection_df = collection_df.reset_index(drop=True)
 # to string we go
 collection_df.to_string()
 
-# printing the output of language_df
+# printing the output of collection_df
 print(collection_df)
 
 # names of the directory
